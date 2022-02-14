@@ -1,8 +1,23 @@
-# kickstarter-analysis
-Performing analysis on kickstarter data to uncover trends
+# Kickstarting with Excel
 
-![Parent Category Outcomes](https://raw.githubusercontent.com/Andres-T-Hernandez/kickstarter-analysis/595beb8dc1d25a2e0e7f27142d93ce16725316a9/Picture1.png)
+## Overview of Project
 
+### Purpose
 
+## Analysis and Challenges
 
-![Parent Category success by month](https://github.com/Andres-T-Hernandez/kickstarter-analysis/blob/595beb8dc1d25a2e0e7f27142d93ce16725316a9/Picture3.png?raw=true)
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
