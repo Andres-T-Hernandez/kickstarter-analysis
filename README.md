@@ -1,5 +1,4 @@
-
-# kickstarter-analysis
+# Module 1 |  Kickstarter Analysis
 Performing analysis on kickstarter data to uncover trends# Kickstarting with Excel
 
 ## Overview of Project
