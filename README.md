@@ -8,7 +8,7 @@ The purpose of this analysis is to gain insights on Kickstarter success.  In par
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The first analysis used excel to analyze outcomes based on launch date.   First using the provided dataset, a new sheet was made to create a pivot table.  Then a pivot table was made isomg information on Kickstarter play's launch date and outcome and filtering by category.  The pivot table was filtered by the Theatre category, and a pivot chart was created to analyze success by month.
+The first analysis used excel to analyze outcomes based on launch date.   First using the provided dataset, a new sheet was made to create a pivot table.  Then a pivot table was made using information on Kickstarter play's launch date and outcome and filtering by category.  The pivot table was filtered by the Theatre category, and a pivot chart was created to analyze success by month.
 ![enter image description here](https://raw.githubusercontent.com/Andres-T-Hernandez/kickstarter-analysis/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
